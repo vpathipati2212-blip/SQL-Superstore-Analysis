@@ -212,6 +212,8 @@ SQL-Superstore-Analysis/
 
 ## Author
 
-Your Name
+Vijay P
 
-Aspiring Data Analyst | SQL | Python | Data Visualization
+Aspiring Data Analyst | SQL | Python | Power BI
+
+GitHub: https://github.com/vpathipati2212-blip
